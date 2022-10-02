@@ -120,7 +120,7 @@ class Umpire
 
     }
 
-    else if(numPlayer2==numGuesser)
+    else if(numPlayer3==numGuesser)
 
     {
 
